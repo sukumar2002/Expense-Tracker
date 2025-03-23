@@ -34,5 +34,4 @@ function removeExpense(index) {
     expenses.splice(index, 1);
     updateUI();
 }
-
 updateUI();
